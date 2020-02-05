@@ -1,0 +1,21 @@
+Dependencies
+Impact Beyond Field
+Flux capacitor voltage
+Diversity & inclusion metrics, for fostering innovative thinking Any metrics around reusability, drive up code quality
+Forks
+Number of committers. Number of commits per committer Number of contributors Contributions per contributor Peak contributors Is the scientific algorithm verified with a test? Contributor affiliations Commit trends Contributor trends Pull request responsiveness Issue responsiveness How is the project licensed How are individual project files licensed Where the project is in the its lifecycle (i.e. SETI, Bioconductor, etc.)
+tool citation count = number of peer-reviewed scientific papers citing the tool => to be used as a proxy for measuring how many researchers are actually using the tool for their researcher. The metric should be robust to self-citations. The metric requires that the tool has a unique doi, indepemdent pf the version of the tool. A good example is for example zenodo.org for sharing artefacts, it allows for doi, and even a generic doi for all versions of the tool
+activity
+Collaboration metrics (comments, issues, PRs, forks); Popularity metrics (stars, watchers);
+Active development
+- Contributor metrics (who uses, writes code, issues, etc) - using the software as a dependency - some vanity metrics (Github stars, page views of an article referring to the code) - info on the licensing for compatibility of research - maybe bus factor and sustainability of the maintainers (and diversity of the maintainers across organizations)
+A way to better measure small contributions in larger research works. Automate citations/acknowledgments with footnote generation for equity. NLP for names? Lower barrier to entry for more diverse range of contributions to academic work.
+Correctness, explainability/validation, bias/diversity, license, performance
+Code
+How often it is updated. Is it open source? Number of years of development
+Code change
+Downstream dependencies
+Diversity & inclusion metrics, for fostering innovative thinking
+Metrics that reflect community activity (is it active, not active?) and sentiment (positive, negative, change over time)
+A way to better measure small contributions in larger research works.
+Number of committers. 
